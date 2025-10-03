@@ -1,0 +1,20 @@
+public class Mixprogram {
+    public static void main(String args[]){
+        char val1 = 'a';
+        char val2 = 'b';
+        char val3 = 'c';
+        char val4 = 'd';
+        System.out.println("char sum =" + ( val1 + val4));
+        int valA = 1;
+        int valB = 2;
+        System.out.println("sum =" + (valA + valB));
+        String firstname =  "Radhe";
+        String lastname = "Krishna";
+        String fullname = firstname + " " + lastname;
+        System.out.println(fullname);
+        
+
+
+    }
+    
+}
